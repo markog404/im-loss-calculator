@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(18, 18, 18);
+  font-family: Helvetica;
+}
+.plcalculate {
+  text-align: center;
+  color: White;
+  background-color: rgb(18, 18, 18);
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+h1 {
+  color: White;
+}
+
+h2 {
+  color: White;
+}  
+h5 {
+  color: White;
+  
+  
+} 
+
+}
