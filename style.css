@@ -30,6 +30,11 @@ a {
 a:hover {
   color: white;
 }
+input {
+  width: 20%;
+  border-radius:5px;
+}
+
 
 
  .footer{ 
